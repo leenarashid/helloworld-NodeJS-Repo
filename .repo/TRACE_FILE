@@ -1,0 +1,26 @@
+PID: 3651 START: 1773806831265585664 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init [sid=repo-20260318T040707Z-P00000e43/repo-20260318T040711Z-P00000e43]
+
+PID: 3651 START: 1773806831290203392 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 3651 END: 1773806831291958272 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 3651 END: 1773806831292060160 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: init [sid=repo-20260318T040707Z-P00000e43/repo-20260318T040711Z-P00000e43]
+
+PID: 3771 START: 1773807740220865024 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: list [sid=repo-20260318T042220Z-P00000ebb/repo-20260318T042220Z-P00000ebb]
+
+PID: 3771 START: 1773807740223264512 :git command None ['git', 'config', '--file', '/home/ubuntu/.gitconfig', '--includes', '--null', '--list'] with debug: : git config --file /home/ubuntu/.gitconfig --includes --null --list 1>| 2>|
+
+PID: 3771 END: 1773807740224972032 :git command None ['git', 'config', '--file', '/home/ubuntu/.gitconfig', '--includes', '--null', '--list'] with debug: : git config --file /home/ubuntu/.gitconfig --includes --null --list 1>| 2>|
+
+PID: 3771 START: 1773807740230766592 :git command None ['git', 'rev-parse', '--symbolic-full-name', 'HEAD'] with debug: : cd /home/ubuntu/git/.repo/manifests
+: git rev-parse --symbolic-full-name HEAD 1>| 2>|
+
+PID: 3771 END: 1773807740231216896 :git command None ['git', 'rev-parse', '--symbolic-full-name', 'HEAD'] with debug: : cd /home/ubuntu/git/.repo/manifests
+: git rev-parse --symbolic-full-name HEAD 1>| 2>|
+
+PID: 3771 START: 1773807740234950144 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 3771 END: 1773807740236730112 :git command None ['git', 'config', '--get', 'trace2.eventtarget'] with debug: : git config --get trace2.eventtarget 1>| 2>|
+
+PID: 3771 END: 1773807740236825088 :+++++++++++++++NEW COMMAND+++++++++++++++++++ starting new command: list [sid=repo-20260318T042220Z-P00000ebb/repo-20260318T042220Z-P00000ebb]
+
